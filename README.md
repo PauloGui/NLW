@@ -1,4 +1,4 @@
-![NLW]()
+![NLW](https://github.com/PauloGui/NLW/blob/master/1%20-%20NLW%20%2302%20-%202560x1080.jpg)
 
 # Proffy - NLW
 
